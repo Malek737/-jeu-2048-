@@ -1,6 +1,6 @@
 #include <iostream>
-int main(){
-int a = 5;
+#include "carte.h"
+
 
     return 0;
 }
